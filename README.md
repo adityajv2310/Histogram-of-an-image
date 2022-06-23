@@ -62,7 +62,7 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![Gray Image 26-04-2022 20_20_12](https://user-images.githubusercontent.com/75235386/165331872-2a40b0a7-53a7-4178-805c-b8f587ef3bc5.png)
+![Gray Image 23-06-2022 18_34_06](https://user-images.githubusercontent.com/75235386/175305694-7f92a2d8-1e1d-4fc2-bce9-af01cd6e9f1a.png)
 ![Histogram and Histogram Equalization of an image - Jupyter Notebook and 1 more page - Personal - Microsoft​ Edge 26-04-2022 20_18_36 (2)](https://user-images.githubusercontent.com/75235386/165332006-503c8527-8def-470a-a748-1b65f502b062.png)
 ![Histogram and Histogram Equalization of an image - Jupyter Notebook and 1 more page - Personal - Microsoft​ Edge 26-04-2022 20_15_35 (2)](https://user-images.githubusercontent.com/75235386/165332069-e310c086-922c-482a-9c6f-599bf617b8b4.png)
 
@@ -73,9 +73,8 @@ cv2.destroyAllWindows()
 
 
 ### Histogram Equalization of Grayscale Image
-![Gray Image 26-04-2022 20_20_12](https://user-images.githubusercontent.com/75235386/165333043-40c2323d-e41e-480b-b2ed-0f347b0f2302.png)
-![Equalized Image 26-04-2022 20_20_28](https://user-images.githubusercontent.com/75235386/165333099-9c601b5b-a4aa-4d51-8005-b0a5f4323cc0.png)
-
+![Gray Image 23-06-2022 18_34_06](https://user-images.githubusercontent.com/75235386/175305952-20bc232f-50de-4fd0-883a-27bf6768b298.png)
+![Equalized Image 23-06-2022 18_34_18](https://user-images.githubusercontent.com/75235386/175306371-eb90d055-87f6-4fb8-85b0-f74efc1e3402.png)
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
